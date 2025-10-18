@@ -1,7 +1,7 @@
 {
   "name": "cat.kittyn.noautogame",
   "displayName": "cátte — NoAutoGame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prevents Unity Game window from auto-opening or auto-focusing when entering play mode.",
   "gitDependencies": {},
   "vpmDependencies": {},
