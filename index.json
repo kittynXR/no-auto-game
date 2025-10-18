@@ -1,0 +1,36 @@
+{
+  "name": "cátte — NoAutoGame VPM Repository",
+  "author": "kittyn",
+  "url": "https://no-auto-game.kittyn.cat/index.json",
+  "id": "cat.kittyn.noautogame",
+  "packages": {
+    "cat.kittyn.noautogame": {
+      "versions": {
+        "1.0.1": {
+          "name": "cat.kittyn.noautogame",
+          "displayName": "cátte — NoAutoGame",
+          "version": "1.0.1",
+          "unity": "2019.4",
+          "description": "Prevents Unity Game window from auto-opening or auto-focusing when entering play mode.",
+          "author": {
+            "name": "kittyn",
+            "email": "cat@kittyn.cat",
+            "url": "https://kittyn.cat"
+          },
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "keywords": [
+            "kittyn",
+            "catte",
+            "unity",
+            "editor",
+            "tool"
+          ],
+          "url": "https://github.com/kittynXR/cat.kittyn.noautogame/releases/download/v1.0.1/cat.kittyn.noautogame-1.0.1.zip",
+          "samples": []
+        }
+      }
+    }
+  }
+}
